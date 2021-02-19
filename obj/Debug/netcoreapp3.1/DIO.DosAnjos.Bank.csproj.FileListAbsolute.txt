@@ -1,0 +1,13 @@
+F:\dotnet\dio-dotnet-poo-lab-1-master\bin\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.exe
+F:\dotnet\dio-dotnet-poo-lab-1-master\bin\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.deps.json
+F:\dotnet\dio-dotnet-poo-lab-1-master\bin\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.runtimeconfig.json
+F:\dotnet\dio-dotnet-poo-lab-1-master\bin\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.runtimeconfig.dev.json
+F:\dotnet\dio-dotnet-poo-lab-1-master\bin\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.dll
+F:\dotnet\dio-dotnet-poo-lab-1-master\bin\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.pdb
+F:\dotnet\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.csprojAssemblyReference.cache
+F:\dotnet\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.AssemblyInfoInputs.cache
+F:\dotnet\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.AssemblyInfo.cs
+F:\dotnet\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.csproj.CoreCompileInputs.cache
+F:\dotnet\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.dll
+F:\dotnet\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.pdb
+F:\dotnet\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO.DosAnjos.Bank.genruntimeconfig.cache

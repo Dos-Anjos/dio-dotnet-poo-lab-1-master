@@ -1,0 +1,4 @@
+F:\dotnet\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO-Dos-Anjos.Bank.csprojAssemblyReference.cache
+F:\dotnet\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO-Dos-Anjos.Bank.AssemblyInfoInputs.cache
+F:\dotnet\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO-Dos-Anjos.Bank.AssemblyInfo.cs
+F:\dotnet\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO-Dos-Anjos.Bank.csproj.CoreCompileInputs.cache
